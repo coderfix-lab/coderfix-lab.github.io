@@ -2,7 +2,7 @@
 layout: post
 title:  "【ES】Mac部署ES本地开发环境-安装/docker集群"
 date:   2020-05-19 23:33:00 +0800
-categories: RaspberryPi
+categories: es docker
 ---
 本文为本人原创，首发地址 https://coderfix.blog.csdn.net/article/details/106197448
 
