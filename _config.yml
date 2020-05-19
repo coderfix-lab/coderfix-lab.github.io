@@ -30,7 +30,8 @@ github_username: coderfix-lab
 future: true
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
+remote_theme: minima
 plugins:
   - jekyll-feed
 
